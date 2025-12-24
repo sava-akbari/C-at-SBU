@@ -1,11 +1,11 @@
 # Homework 01 - Longest Strictly Increasing Subsequence Length
 
-## Problem Statement:
+## **Problem Statement:**
 
-##### Write a complete C program that reads a sequence of integers from the user (input ends when -1 is entered) and computes the length of the longest **strictly increasing** subsequence.
+#### Write a complete C program that reads a sequence of integers from the user (input ends when -1 is entered) and computes the length of the longest **strictly increasing** subsequence.
 #### In Persian: برنامه کاملی به زبان سی بنویسید که دنباله‌ای از اعداد صحیح را از کاربر بگیرد (ورودی با ورود عدد -1 خاتمه پیدا می‌کند) و طول بزرگ‌ترین زیرتوالی اکیداً صعودی را محاسبه کند
 
-**Notes:**
+## **Notes:**
 - The input continues until -1 is entered (-1 is not part of the sequence and only signals termination).
 - A strictly increasing subsequence means each element is **greater than** the previous one (e.g., 2 < 4 < 6 < 8).
 - Only the **length** of the longest such subsequence is required (not the subsequence itself).
