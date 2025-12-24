@@ -10,11 +10,11 @@
 - A strictly increasing subsequence means each element is **greater than** the previous one (e.g., 2 < 4 < 6 < 8).
 - Only the **length** of the longest such subsequence is required (not the subsequence itself).
 
-**Example 1:**
+## **Example 1:**
 
-Input: 3 5 7 2 4 6 8 1 -1
-Expected Output: 4
-(Explanation: The longest strictly increasing subsequence is 2, 4, 6, 8 → length 4)
+#### Input: 3 5 7 2 4 6 8 1 -1
+#### Expected Output: 4
+#### (Explanation: The longest strictly increasing subsequence is 2, 4, 6, 8 → length 4)
 
 **Example 2:**
 
