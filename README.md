@@ -11,8 +11,7 @@ I'm **Sava**, and this is my first serious programming course. I'm learning ever
 ### Repository Structure
 - `Homework-XX/` → Assigned homework problems from the professor  
   (Includes problem statement, my solution, and sample outputs)
-- `Class-Example-XX/` → Code examples written by the TA or professor during class  
-  (Coming soon as we cover more topics)
+- `Class-Session-XX/` → Code examples written by the TA or professor during class
 
 ### Why This Repo Exists
 - To keep all my work organized and version-controlled
