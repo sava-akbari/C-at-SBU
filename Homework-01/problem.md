@@ -18,8 +18,6 @@
 
 ## **Example 2:**
 
-Input: -2 -3 -4 -5 1 2 3 4 -3 0 1 10 -1
-
-Expected Output: 5
-
-(Explanation: The longest strictly increasing subsequence is -3, -1, 0, 1, 10 → length 5)
+#### Input: -2 -3 -4 -5 1 2 3 4 -3 0 1 10 -1
+#### Expected Output: 5
+#### (Explanation: The longest strictly increasing subsequence is -3, -1, 0, 1, 10 → length 5)
